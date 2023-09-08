@@ -1,5 +1,5 @@
 <template>
-  <div>Streaming {{ value }}</div>
+  <h1>Streaming {{ value }}</h1>
 </template>
 
 <script>
@@ -13,7 +13,20 @@ export default {
 };
 </script>
 <style>
+  h1 {
+    margin: auto;
+  width: 50%;
+  padding: 30px;
+  }
  body {
   background-color: #0f1f3d;
+  font:
+    1.6rem/1.25 "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif;
+  color: #ffffff;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 </style>
