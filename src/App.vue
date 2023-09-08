@@ -13,9 +13,7 @@ export default {
 };
 </script>
 <style>
-  @media screen and (min-width: 620px) {
-    [class*="__lg"] {
-      font-size: 2.4rem;
-    }
-  }
+ body {
+  background-color: #0f1f3d;
+}
 </style>
