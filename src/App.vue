@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>Streaming {{ value }}</div>
 </template>
 
 <script>
