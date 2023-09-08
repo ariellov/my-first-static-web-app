@@ -1,5 +1,4 @@
 <template>
-  <title>Streaming.ee</title>
   <h1>Streaming {{ value }}</h1>
 </template>
 
