@@ -1,4 +1,5 @@
 <template>
+  <title>Streaming.ee</title>
   <h1>Streaming {{ value }}</h1>
 </template>
 
@@ -17,6 +18,7 @@ export default {
     margin: auto;
   width: 50%;
   padding: 30px;
+    text-align: center;
   }
  body {
   background-color: #0f1f3d;
