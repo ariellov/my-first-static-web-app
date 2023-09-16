@@ -1,5 +1,7 @@
 {
     "navigationFallback": {
         "rewrite": "/index.html"
-    }
+    },
+    "route": "/success/index.html",
+  "allowedRoles": ["authenticated"]
 }
